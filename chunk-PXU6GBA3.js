@@ -1,0 +1,1 @@
+import{v as r,w as e}from"./chunk-XJFT56VC.js";import{P as o}from"./chunk-IDPMWJG7.js";var n=class t extends e{constructor(){super(),this.resourceEndpoint=r.commentsEndpointPath}static \u0275fac=function(i){return new(i||t)};static \u0275prov=o({token:t,factory:t.\u0275fac,providedIn:"root"})};export{n as a};
