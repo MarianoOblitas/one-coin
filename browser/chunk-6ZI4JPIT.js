@@ -1,1 +1,0 @@
-import{v as o,w as i}from"./chunk-XJFT56VC.js";import{P as e}from"./chunk-IDPMWJG7.js";var n=class t extends i{constructor(){super(),this.resourceEndpoint=o.postsEndpointPath}toggleLike(r){return this.updateParamById(r,"likes",{})}static \u0275fac=function(s){return new(s||t)};static \u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"})};export{n as a};
